@@ -1,6 +1,7 @@
 # arch-linux-pipa
 arch linux arm for mi pad 6 (pipa)
 
+### [Installation Guide](https://github.com/qzcs3/arch-linux-pipa/wiki/Installation-guide)
 ***
 
 # Credits
