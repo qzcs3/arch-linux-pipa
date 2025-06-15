@@ -7,6 +7,6 @@ arch linux arm for mi pad 6 (pipa)
 # Credits
 
 Maintained by [rmux](https://github.com/rmuxnet) and [domin746826](https://github.com/domin746826)
-images repacked by me [qzcs3](https://github.com/qzcs3)
+images repacked by me [qzcs3](https://github.com/qzcs3)    
 BRICK™ Arch Linux project for Xiaomi Pad 6
 
